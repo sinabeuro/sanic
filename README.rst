@@ -65,7 +65,7 @@ Sanic is also ASGI compliant, so you can deploy it with an `alternative ASGI web
 The project is maintained by the community, for the community. **Contributions are welcome!**
 
 The goal of the project is to provide a simple way to get up and running a highly performant HTTP server that is easy to build, to expand, and ultimately to scale.
-
+f
 Installation
 ------------
 
